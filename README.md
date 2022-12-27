@@ -1,6 +1,6 @@
 <h1 align="center">Launcher-SAMP Rad Studio XE7</h1>
 
-<a href="https://youtu.be/bv90UniUB8c"> how to assemble Interactive-Service </a>
+
 
 <p align="center">
 	<i>To compile a project on Rad Studio XE7, you must first install the acnt components.</i>
@@ -9,6 +9,8 @@
 <p align="center">
 	<img src="https://i.postimg.cc/bw2ZVp4G/3.png" />
 </p>
+
+<a href="https://youtu.be/bv90UniUB8c"> how to assemble Interactive-Service </a>
 
 -------
 
