@@ -10,7 +10,7 @@
 	<img src="https://i.postimg.cc/bw2ZVp4G/3.png" />
 </p>
 
-<a href="https://youtu.be/bv90UniUB8c"> how to assemble Interactive-Service </a>
+<a href="https://youtu.be/bv90UniUB8c"> how to assemble Launcher-SAMP </a>
 
 -------
 
