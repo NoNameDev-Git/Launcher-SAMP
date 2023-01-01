@@ -10,7 +10,6 @@
 	<img src="https://i.postimg.cc/bw2ZVp4G/3.png" />
 </p>
 
-That's all, our lnk is ready, and everything that I think further is intuitive.
 Link to youtube: [www.youtube.com](https://youtu.be/bv90UniUB8c)
 
 -------
